@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+  background: url("/webpage/images/bg.png");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+img{
+  object-fit: cover;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+
